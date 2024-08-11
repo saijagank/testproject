@@ -1,0 +1,24 @@
+{
+  "stockprediction": {
+    "version": 1,
+    "application": "stock-prediction",
+    "Owner": "Data poineer team",
+    "properties": {
+      "dataload": {
+        "path": "C:\\Users\\admin\\Downloads\\",
+        "url": "https://www.nseindia.com/market-data/securities-available-for-trading"
+      },
+      "dbconnection": {
+
+        "dev": {
+          "database" : "testdb",
+          "user": "hello123",
+          "host": "localhost",
+          "password": "test1234",
+          "port": 5432
+        }
+
+      }
+    }
+  }
+}
