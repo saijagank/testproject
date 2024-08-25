@@ -5,7 +5,7 @@
     "Owner": "Data poineer team",
     "properties": {
       "dataload": {
-        "path": "C:\\Users\\admin\\Downloads\\",
+        "path": "//home//ec2-user//in//eq",
         "url": "https://www.nseindia.com/market-data/securities-available-for-trading"
       },
       "dbconnection": {
