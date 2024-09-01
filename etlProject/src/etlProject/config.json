@@ -5,8 +5,9 @@
     "Owner": "Data poineer team",
     "properties": {
       "dataload": {
-        "path": "//home//ec2-user//in//eq",
-        "url": "https://www.nseindia.com/market-data/securities-available-for-trading"
+        "path": "C:\\Users\\admin\\Downloads\\",
+        "url": "https://www.nseindia.com/market-data/securities-available-for-trading",
+        "symblist": ["20MICRONS", "SBIN", "METROPOLIS"]
       },
       "dbconnection": {
 
